@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #231f20;
+  min-height: 100vh;
+}
+
+.prime-logo {
+  height: 35vh;
+  width: 100%;
+}
+
+.movie-genre-titles {
+  margin: 20px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-family: 25px;
+}
+
+.movie-genre-container {
+  padding: 40px;
+}

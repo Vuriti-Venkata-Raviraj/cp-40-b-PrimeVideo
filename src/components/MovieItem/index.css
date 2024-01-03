@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.triggered {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.play-container {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.close-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  align-self: flex-start;
+}
